@@ -5,6 +5,8 @@ The objective of the  project is to build a machine-learning model that can effe
 This classification task is crucial in real-world applications, especially in forensic investigations, where identifying the type of glass found at crime scenes can provide valuable evidence. 
 By employing various classification algorithms and techniques, the project seeks to achieve high accuracy and robustness in predicting the glass type, thereby contributing to the field of material identification and forensic sciences.
 
+![Python 3](https://img.shields.io/badge/Python-3-blue.svg)
+
 ## Table of Contents
 
   - [Objective](#objective)
@@ -17,7 +19,13 @@ By employing various classification algorithms and techniques, the project seeks
 
   - [Getting Started](#Getting-Started)
 
+## Objective
 
+  The objective of the Glass Identification project is to develop a robust machine learning model that can accurately classify different types of glass based on their 
+  chemical composition, with a particular focus on attributes such as refractive index and the percentages of various chemical elements. This classification model aims to 
+  contribute to the field of material identification and forensic sciences by providing a valuable tool for identifying glass samples found in real-world scenarios, 
+  including forensic investigations. The project seeks to achieve high classification accuracy and reliability by employing various data analysis and machine learning 
+  techniques, ultimately aiding in the precise categorization of glass samples for diverse applications, such as building materials, vehicle components, and more.
 
 ## Data Description
 
